@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: As user i want to register
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.553 s <<< FAILURE! - in As user i want to register
+As user i want to register.as a user I want to register valid all data  Time elapsed: 8.553 s  <<< ERROR!
+java.lang.IllegalArgumentException: You must supply the same number of keys as values.
+

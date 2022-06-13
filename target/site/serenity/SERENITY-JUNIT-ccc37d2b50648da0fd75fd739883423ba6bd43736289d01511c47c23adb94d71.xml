@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="As user i want to register" skipped="0" tests="1" time="8.1" timestamp="2022-06-13 09:04:17"><testcase name="as a user I want to register valid all data"><error message="You must supply the same number of keys as values." type="java.lang.IllegalArgumentException">You must supply the same number of keys as values.</error><system-err>You must supply the same number of keys as values.&#13;
+io.restassured.internal.MapCreator.createMapFromObjects(MapCreator.groovy:50)&#13;
+io.restassured.internal.MapCreator.createMapFromParams(MapCreator.groovy:32)&#13;
+net.serenitybdd.rest.decorators.request.RequestSpecificationHeaderConfigurations.headers(RequestSpecificationHeaderConfigurations.java:45)&#13;
+net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated.headers(RequestSpecificationDecorated.java:38)&#13;
+API.CAPSTONE@1.0-SNAPSHOT/starter.ramean.Register.valueApiKey(Register.java:28)&#13;
+API.CAPSTONE@1.0-SNAPSHOT/starter.stepdefinitions.Registersteps.setApiKeyValue(Registersteps.java:20)&#13;
+✽.user set headers value API-Key(file:///C:/Users/Asus/IdeaProjects/API_CAPSTONE/src/test/resources/api/Register.feature:5)&#13;
+</system-err></testcase></testsuite>
