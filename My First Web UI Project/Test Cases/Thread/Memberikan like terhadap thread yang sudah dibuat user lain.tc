@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Memberikan like terhadap thread yang sudah dibuat user lain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc8a6172-1ead-4602-9c80-3253d9a1f503</testCaseGuid>
+</TestCaseEntity>

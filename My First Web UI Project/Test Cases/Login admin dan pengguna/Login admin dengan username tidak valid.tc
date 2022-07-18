@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login admin dengan username tidak valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0b8fc62-d839-4f99-a074-b2c7544dd2f6</testCaseGuid>
+</TestCaseEntity>

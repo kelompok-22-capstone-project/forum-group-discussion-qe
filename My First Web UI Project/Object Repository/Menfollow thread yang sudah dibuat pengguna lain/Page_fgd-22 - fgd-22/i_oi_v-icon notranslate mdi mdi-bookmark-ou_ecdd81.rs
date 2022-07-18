@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_oi_v-icon notranslate mdi mdi-bookmark-ou_ecdd81</name>
+   <tag></tag>
+   <elementGuidId>b8151474-ac13-47dc-95e3-3bce9d6b02a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div[2]/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-bookmark-outline.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0007062f-f080-4502-b45b-514f121a5b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5cc9d4d1-009a-47ea-a266-343ceba656d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-bookmark-outline theme--light</value>
+      <webElementGuid>39a8ab14-ec09-4bec-82d4-edce4bd8d4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ma-6&quot;]/div[@class=&quot;ma-6 v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col col-4&quot;]/button[@class=&quot;justify-start pa-1 no-uppercase v-btn v-btn--plain theme--light v-size--default dark--text&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-bookmark-outline theme--light&quot;]</value>
+      <webElementGuid>47366c7f-08f0-46aa-a9eb-905dd02cea78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div[2]/button/span/i</value>
+      <webElementGuid>dd94f682-5f57-46f4-8269-07c426304c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button/span/i</value>
+      <webElementGuid>81f37cf3-d3e9-42f4-ae01-41822ffadb9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

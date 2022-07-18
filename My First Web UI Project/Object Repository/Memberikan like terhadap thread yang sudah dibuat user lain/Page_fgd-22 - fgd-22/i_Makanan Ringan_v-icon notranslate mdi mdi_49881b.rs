@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Makanan Ringan_v-icon notranslate mdi mdi_49881b</name>
+   <tag></tag>
+   <elementGuidId>3fdc49a3-fdce-4a59-b204-51faf7931a82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[2]/div/div/a/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-thumb-up-outline.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>74cd46d3-adf0-44da-97de-f264fa795115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>954fe261-3e44-42ba-83db-2167b6ab4d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-thumb-up-outline theme--light</value>
+      <webElementGuid>069bef93-a214-47c9-a01a-901d474c39d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[2]/div[@class=&quot;mx-auto mr-8 ml-8 mt-6 pa-4 rounded-lg v-card v-sheet theme--light elevation-5&quot;]/div[@class=&quot;v-card__actions&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;mr-2 col col-1&quot;]/a[@class=&quot;v-btn v-btn--plain v-btn--router theme--light v-size--default dark--text&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-thumb-up-outline theme--light&quot;]</value>
+      <webElementGuid>3007a11b-931e-41ef-a0be-3738bff35402</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div/div/a/span/i</value>
+      <webElementGuid>c9ab9ed6-6a53-4f53-8e99-d38d1975e999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/span/i</value>
+      <webElementGuid>7d707160-2dcf-4e04-b244-7b70181da091</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

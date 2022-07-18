@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Makanan Ringan_v-icon notranslate mdi mdi_9f8a8c</name>
+   <tag></tag>
+   <elementGuidId>399cd982-2832-4fbf-8583-9f4d0fe085e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div/div[2]/div/div[2]/a/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>60cc553d-665a-4f04-a7f2-aec96f150d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>79fe47b2-7923-4068-87a0-94513089ab63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-bookmark-outline theme--light</value>
+      <webElementGuid>7e23740b-f103-44db-a897-c88cfdebd6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[3]/div[@class=&quot;mx-auto mr-8 ml-8 mt-6 pa-4 rounded-lg v-card v-sheet theme--light elevation-5&quot;]/div[@class=&quot;v-card__actions&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-1&quot;]/a[@class=&quot;v-btn v-btn--plain v-btn--router theme--light v-size--default dark--text&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-bookmark-outline theme--light&quot;]</value>
+      <webElementGuid>5984e7d6-5a78-4f64-80e3-b61733b0f2cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div/div[2]/div/div[2]/a/span/i</value>
+      <webElementGuid>77f12885-3b83-4e76-a95a-d774bc05a3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div[2]/a/span/i</value>
+      <webElementGuid>fdda35ce-42f9-4529-9e3a-10bac23f7b4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login admin dengan data yang kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c234fd10-024a-4a23-8e72-c9e833e84560</testCaseGuid>
+</TestCaseEntity>

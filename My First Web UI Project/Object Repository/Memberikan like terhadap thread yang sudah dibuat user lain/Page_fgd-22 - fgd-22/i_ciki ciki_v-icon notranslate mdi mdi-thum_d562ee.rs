@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ciki ciki_v-icon notranslate mdi mdi-thum_d562ee</name>
+   <tag></tag>
+   <elementGuidId>2b1b0dbd-5fdb-4f92-814c-b733a8d9e3cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-thumb-up-outline.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>34a95781-4e7c-44b4-99eb-01686d15cdef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>36725da0-1651-45e2-92a6-ce6f25d68a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-thumb-up-outline theme--light</value>
+      <webElementGuid>17e137af-e548-42ba-ab4a-e5de6c20b7af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ma-6&quot;]/div[@class=&quot;ma-6 v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col col-1&quot;]/button[@class=&quot;justify-start pa-1 v-btn v-btn--plain theme--light v-size--default dark--text&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-thumb-up-outline theme--light&quot;]</value>
+      <webElementGuid>9149ce97-0480-4b0e-8a93-68f6f27dda3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div/button/span/i</value>
+      <webElementGuid>e2e7ca04-d641-44f9-81ac-8925b577f207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/span/i</value>
+      <webElementGuid>e7d0894a-d736-4f32-b642-df91b2f9211e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

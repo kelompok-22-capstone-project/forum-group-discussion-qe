@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login admin dengan data yang sudah terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c283179d-12b4-4b31-a89a-5255f61f775a</testCaseGuid>
+</TestCaseEntity>

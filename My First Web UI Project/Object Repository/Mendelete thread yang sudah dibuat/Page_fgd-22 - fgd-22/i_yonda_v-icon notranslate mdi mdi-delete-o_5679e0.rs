@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_yonda_v-icon notranslate mdi mdi-delete-o_5679e0</name>
+   <tag></tag>
+   <elementGuidId>313eff99-9f3c-4b6a-89e2-95fa25e77c1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-delete-outline.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1f29e341-aab7-4ab7-87a6-e3d91a65d3ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>27122a8a-8987-4fbb-83f1-e2b53223bb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-delete-outline theme--light</value>
+      <webElementGuid>a63ea488-e36d-4090-ae4b-3143e2f860a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ma-6&quot;]/div[@class=&quot;v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions&quot;]/div[@class=&quot;grow v-list-item theme--light&quot;]/button[@class=&quot;v-btn v-btn--text theme--light v-size--default error--text&quot;]/span[@class=&quot;v-btn__content&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-delete-outline theme--light&quot;]</value>
+      <webElementGuid>c044db18-d68b-4dd6-ae8b-5babca16d953</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/button/span/i</value>
+      <webElementGuid>009316cd-1581-4b57-8d01-e53b919200f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/span/i</value>
+      <webElementGuid>8defe64b-cb81-4940-8ad3-9f9b7c300f36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

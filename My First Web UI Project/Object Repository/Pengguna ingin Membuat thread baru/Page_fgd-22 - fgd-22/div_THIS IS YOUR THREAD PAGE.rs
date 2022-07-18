@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_THIS IS YOUR THREAD PAGE</name>
+   <tag></tag>
+   <elementGuidId>3fcd3ba5-ac4f-466a-9fe2-6a4ce6efefdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='app']/div)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container > #app > div.v-application--wrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09e3b159-1d9c-4eaf-97e0-88e001e1d57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-application--wrap</value>
+      <webElementGuid>b458607b-e8b3-46d0-a96d-e60edb9e0a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>THIS IS YOUR THREAD PAGE !!!</value>
+      <webElementGuid>6f9d35c4-0e09-4f2c-8169-3cff9bf098e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]</value>
+      <webElementGuid>75edaf96-2e22-4070-bbba-09f2c34369c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='app']/div)[2]</value>
+      <webElementGuid>35a74882-8e3e-4024-8c06-385081df700b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Thread'])[1]/following::div[5]</value>
+      <webElementGuid>373ec08a-edf0-4483-9022-2e2dfc0cbe55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ranking'])[1]/following::div[6]</value>
+      <webElementGuid>f3515142-d053-441f-8944-e2081d3791f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div</value>
+      <webElementGuid>22b5079f-b30e-4d9e-b77c-f573038d0ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'THIS IS YOUR THREAD PAGE !!!' or . = 'THIS IS YOUR THREAD PAGE !!!')]</value>
+      <webElementGuid>2e1fece0-bd99-4f41-b5cf-2c85ebd76a47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

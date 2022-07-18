@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_oi</name>
+   <tag></tag>
+   <elementGuidId>d9f74985-f2b1-4828-8402-05fd06859bb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-h4.text-bold.font-weight-medium.black--text.no-uppercase.v-btn.v-btn--plain.v-btn--router.v-btn--text.theme--light.v-size--default > span.v-btn__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2274e45e-cd9e-4748-aa51-537f39425a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>f905631c-10f8-43ce-a474-40211f0cd4b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        oi
+      </value>
+      <webElementGuid>238e5dd1-5a3b-4171-8f37-68e8c9eb59b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[2]/div[@class=&quot;mx-auto mr-8 ml-8 mt-6 pa-4 rounded-lg v-card v-sheet theme--light elevation-5&quot;]/a[@class=&quot;text-h4 text-bold font-weight-medium black--text no-uppercase v-btn v-btn--plain v-btn--router v-btn--text theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>2a321527-5b65-43cc-88d1-561b99e54473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/a/span</value>
+      <webElementGuid>b37252b7-0711-43d0-962b-33daa0fc7cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Let', &quot;'&quot;, 's Make a thread')])[1]/following::span[1]</value>
+      <webElementGuid>400267b3-1592-4143-9bad-3be96904b29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Thread'])[1]/following::span[3]</value>
+      <webElementGuid>2f7a0a0b-bb46-4c1f-862e-2721f9faff3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='yonda'])[2]/preceding::span[3]</value>
+      <webElementGuid>46b49d56-c649-4021-af28-2d308643da53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Olahraga'])[2]/preceding::span[4]</value>
+      <webElementGuid>44d5d96c-18d1-43a8-a7e4-8b1d1e5e6f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='oi']/parent::*</value>
+      <webElementGuid>c726ad93-c526-49ac-8447-d195bbacccaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/a/span</value>
+      <webElementGuid>943e0b64-9c05-416a-8b10-66d79685dc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+        oi
+      ' or . = '
+        oi
+      ')]</value>
+      <webElementGuid>56ceed18-4704-4970-90cc-7dece8f27c7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

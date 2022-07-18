@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menghapus thread yang sudah dibuat pengguna</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fb578d3-50fa-4c22-8d87-befd1a9e2c74</testCaseGuid>
+</TestCaseEntity>

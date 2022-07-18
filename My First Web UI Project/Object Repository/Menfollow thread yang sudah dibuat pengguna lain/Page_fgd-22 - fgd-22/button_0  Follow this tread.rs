@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_0  Follow this tread</name>
+   <tag></tag>
+   <elementGuidId>f8fc81fc-79ea-4252-8ad3-db4ab4b6506c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.justify-start.pa-1.no-uppercase.v-btn.v-btn--plain.theme--light.v-size--default.dark--text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69c51342-2d26-4160-96f7-ea0a63c2dc6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>10f20e09-0baa-4cc0-9014-fb0122f0b84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-start pa-1 no-uppercase v-btn v-btn--plain theme--light v-size--default dark--text</value>
+      <webElementGuid>badb581f-cdea-492e-bd2f-76e773a92f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 0  Follow this tread</value>
+      <webElementGuid>adc695f9-b4a5-42be-9b76-2831dbc903c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ma-6&quot;]/div[@class=&quot;ma-6 v-card v-card--flat v-sheet theme--light&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col col-4&quot;]/button[@class=&quot;justify-start pa-1 no-uppercase v-btn v-btn--plain theme--light v-size--default dark--text&quot;]</value>
+      <webElementGuid>b82e2407-e640-448a-91a8-08b40b54a4b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>9a7c8e4a-dcba-4f7c-9aa5-816cc6b29e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[3]/div/div[2]/button</value>
+      <webElementGuid>dc9ed27b-3883-49dd-abd8-05b502a39890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oi'])[1]/following::button[2]</value>
+      <webElementGuid>ec21a2fa-fd5e-4bc2-a3f9-5b10c0cfc7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Olahraga'])[2]/following::button[2]</value>
+      <webElementGuid>168434b0-d7a6-493e-8ae5-c8ef5caf4829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moderator :'])[1]/preceding::button[1]</value>
+      <webElementGuid>1dbacf3a-efcc-4f16-b2b2-954c56a332a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button</value>
+      <webElementGuid>97b3df8f-e4ea-4e9e-b8d0-9ce9f4036b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' 0  Follow this tread' or . = ' 0  Follow this tread')]</value>
+      <webElementGuid>3142bd34-98a0-4d24-add8-9cc0c4160b2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Menambahkan komentar ke thread pengguna lain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55a82ec7-ef42-43e3-9d91-8a5d2d9c45fe</testCaseGuid>
+</TestCaseEntity>

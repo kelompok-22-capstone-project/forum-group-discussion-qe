@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengguna ingin membuat akun dengan display name yang kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbc106d9-c914-4ad3-b5db-63d2d5b338db</testCaseGuid>
+</TestCaseEntity>

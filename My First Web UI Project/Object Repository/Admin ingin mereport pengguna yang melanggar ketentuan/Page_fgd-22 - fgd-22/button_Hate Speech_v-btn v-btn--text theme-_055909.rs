@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hate Speech_v-btn v-btn--text theme-_055909</name>
+   <tag></tag>
+   <elementGuidId>914b72f0-87a9-4b30-90c8-d3e2599c2308</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-btn.v-btn--text.theme--light.v-size--default.error--text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='r-LGM9UHp']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1866e2dc-f708-4bb7-8fa1-6558946783fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>39e1b5f2-3e91-424b-972a-28ae2aee2a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>r-LGM9UHp</value>
+      <webElementGuid>599f122c-e404-4718-90a3-d6f5a5daf6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn v-btn--text theme--light v-size--default error--text</value>
+      <webElementGuid>5c41215a-5532-48db-8e49-b91847f321cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;ma-6&quot;]/div[2]/div[@class=&quot;v-card v-card--flat v-sheet theme--light&quot;]/div[2]/div[@class=&quot;row align-center&quot;]/div[@class=&quot;col col-2&quot;]/div[@class=&quot;v-item-group theme--light v-btn-toggle v-btn-toggle--group v-btn-toggle--tile&quot;]/button[@class=&quot;v-btn v-btn--text theme--light v-size--default error--text&quot;]</value>
+      <webElementGuid>fb1c6439-c3eb-4338-a22f-382206661b70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='r-LGM9UHp']</value>
+      <webElementGuid>3d84825b-4312-4a5f-b25d-1a2b35407ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div/div[5]/div/button</value>
+      <webElementGuid>ad5472a6-7370-4996-99a1-bc58cb4f260f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hate Speech'])[1]/following::button[1]</value>
+      <webElementGuid>d9daf80a-c7d8-42a3-80c3-cdac6500fca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From (Title Thread)'])[1]/following::button[1]</value>
+      <webElementGuid>db21140f-b079-48a0-9704-e7222c87146c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button</value>
+      <webElementGuid>c6418c85-6e54-475e-a187-6c6728a244ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>c81c441b-85b0-4236-a613-08ddc2eaefeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
